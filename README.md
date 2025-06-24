@@ -34,4 +34,4 @@ This dashboard provides a high-level **Executive Financial Overview** for five c
 
 ---
 
-👩‍💻 Created by [Aparna Pandey]([https://www.linkedin.com/in/aparnapandeydatascientist])
+👩‍💻 Created by [Aparna Pandey](https://www.linkedin.com/in/aparnapandeydatascientist)
